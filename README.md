@@ -127,9 +127,9 @@ fitness_report.txt
 
 Developed as a school project by:
 
-- Placeholder ([GitHub Profile](https://github.com/placeholder))
-- Placeholder ([GitHub Profile](https://github.com/placeholder))
-- Placeholder ([GitHub Profile](https://github.com/placeholder))
+- Dwayne Anthony J. Oguan ([GitHub Profile of Oguan](https://github.com/dwayneoguan572-code))
+- Lian Joseph A. Gamba ([GitHub Profile of Gamba](https://github.com/liangamba-design))
+- Gerard Hermo ([GitHub Profile of Hermo](https://github.com/gxrard))
 
 In Partial Fulfillment of the Requirements for the Subject CC103 Computer Programming 2 Under the Course of Bachelor of Science in Information Technology at Sorsogon State University Bulan Campus. With the Supervision of our Professor John Mark Gabrentina.
 
